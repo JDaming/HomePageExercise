@@ -1,0 +1,32 @@
+body{
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+}
+.header-top{
+	position: fixed;
+	height: 69px;
+	width: 1350px;
+	background-color: red;
+}
+.logo{
+	height: 458px;
+	width: 1350px;
+	background-image: ;
+}
+.Features{
+
+
+}
+.works{
+
+}
+.Team{
+
+}
+.Facts{
+	background-color: #cc0000;
+}
+.Buttom{
+	background-color: #ff0000；
+}
