@@ -6,23 +6,22 @@ body{
 .header-top{
 	position: fixed;
 	height: 69px;
-	width: 1350px;
 	background-color: red;
 }
 .logo{
 	height: 458px;
-	width: 1350px;
 	background-image: ;
+	background-color: green;
 }
 .Features{
 
-
+	background-color: #7744FF;
 }
 .works{
-
+	background-color:#9955FF ;
 }
 .Team{
-
+	background-color: #99FFFF;
 }
 .Facts{
 	background-color: #cc0000;
