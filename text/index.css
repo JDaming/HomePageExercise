@@ -13,13 +13,14 @@ body{
 	height: 458px;
 	width: 1350px;
 	background-image: ;
+	background-color: green;
 }
 .Features{
 
-
+	background-color: #7744FF;
 }
 .works{
-
+	background-color:#9955FF ;
 }
 .Team{
 
